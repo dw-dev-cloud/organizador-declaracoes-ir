@@ -1,7 +1,7 @@
 # 🧙‍♂️ Wizard App - Organizador de Declaração de Imposto de Renda
 
 ## 📌 Sobre o Projeto
-O **Wizard App** é uma planilha inteligente desenvolvida durante o curso **"Criando Um Organizador de Declaração de Imposto de Renda"** na plataforma **DIO (Digital Innovation One)**,Projeto desenvolvido sob a orientação do instrutor [@felipeAguiarCódigo](https://github.com/felipeAguiarC%C3%B3digo) durante o bootcamp de Excel Avançado da DIO.
+O **Wizard App** é uma planilha inteligente desenvolvida durante o curso **"Criando Um Organizador de Declaração de Imposto de Renda"** na plataforma **DIO (Digital Innovation One)**,Projeto desenvolvido sob a orientação do instrutor [@felipeAguiarCódigo](https://github.com/felipeAguiarCodigo) durante o bootcamp de Excel Avançado da DIO.
 
 O projeto simula um software de gestão financeira pessoal, superando as limitações do Excel Web através de soluções criativas em formatação avançada, navegação por hiperlinks e visualização de dados integrada.
 
